@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Kevin and I'm a freshman, from Bekasi</h2>
+<h2 align="left">Hi 👋! My name is Kevin and I'm a freshman from Bekasi, with a strong passion for Front-end development</h2>
 
 <img align="right" height="130" src="https://media0.giphy.com/media/12B39IawiNS7QI/giphy.gif?cid=6c09b952lqssc5hjelxgfnh0ybp24trx1q1yxkh30pkazcal&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
-### 💻 Tech Stack
+### 💻 Tech Stack — Front-End Enthusiast 💙
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
